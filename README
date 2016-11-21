@@ -1,2 +1,2 @@
 The project is a crawler for www.liuxuebao.com.
-It has different spiders for different pages. And the data extracted from website was save in json format. However, there exits a small program that cantranslate json file into csv file.
+It has different spiders for different pages. And the data extracted from website was saved in json format. However, there exits a small program that cantranslate json file into csv file.
